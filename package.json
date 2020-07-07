@@ -26,7 +26,7 @@
     "grapesjs-preset-webpage": "^0.1.10",
     "grapesjs-style-gradient": "^1.0.5",
     "grapesjs-tabs": "^0.1.2",
-    "npm": "^6.0.1",
+    "npm": "^6.14.6",
     "path": "^0.12.7"
   }
 }
